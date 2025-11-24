@@ -1,0 +1,6 @@
+{
+  "Name": "BankA1Process",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
